@@ -11,15 +11,15 @@ const CarroBackground = () => {
 }
 
 const styles = StyleSheet.create({
-    
-  ImagemBackground:{
-    flex:1,
-    width:390,
-    height:453,
-    position:'absolute',
-    bottom:0
+
+  ImagemBackground: {
+    flex: 1,
+    width: 390,
+    height: 453,
+    position: 'absolute',
+    bottom: 0
   }
-  
+
 })
 
 export default CarroBackground
